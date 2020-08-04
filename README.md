@@ -5,6 +5,7 @@ Software Engineer at [Seek Asia](https://www.seekasia.com)
 ### I'm currently learning
 
 - TypeScript, reading [TypeScript Quickly](https://www.manning.com/books/typescript-quickly)
+- Golang, reading https://golangbot.com/learn-golang-series/
 
 ### My Stats
 
